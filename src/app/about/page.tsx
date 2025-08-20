@@ -59,7 +59,7 @@ export default function AboutPage() {
             Collaborate with Me
           </a>
           <a
-            href="/images/cv.jpg"
+            href="/images/CV.jpg"
             target="_blank"
             className="bg-gray-800 text-white px-6 py-3 rounded-xl shadow-lg hover:bg-gray-900 transition-all duration-300"
           >
