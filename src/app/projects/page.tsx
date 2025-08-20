@@ -25,7 +25,7 @@ export default function Projects() {
       description:
         "A car listing and browsing platform inspired by PakWheels, allowing users to explore, compare, and find vehicles with ease.",
       image: "/images/pakwheel.png",
-      link: "https://mini-hackathon-ten.vercel.app/",
+      link: "https://mini-hackathon-git-master-sabreena-zahid-alis-projects.vercel.app/",
     },
     {
       title: "E-Commerce Website",
@@ -52,7 +52,7 @@ export default function Projects() {
       title: "Figma Design",
       description:
         "A modern and responsive web layout created from a Figma design, converted into pixel-perfect code using Next.js and Tailwind CSS.",
-      image: "/images/figma design.png",
+      image: "/images/Figma design.png",
       link: "https://update-figma-hackhathon-5ywm.vercel.app/",
     },
     {
